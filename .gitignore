@@ -1,0 +1,13 @@
+# PlatformIO
+.pio/
+.vscode/
+
+# Wokwi / Archivos temporales
+*.elf
+*.bin
+*.hex
+*.uf2
+
+# OS
+.DS_Store
+Thumbs.db

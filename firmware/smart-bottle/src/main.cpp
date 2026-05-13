@@ -13,7 +13,7 @@
 #define API_KEY         "jameofit-bottle-key-001"
 #define DEVICE_ID       "bottle-jameofit-001"
 #define USER_ID         "usr_12345"
-#define DAILY_GOAL_ML   2500.0f   
+#define DAILY_GOAL_ML    2500.0f   
 
 #define FLOW_BTN_PIN    4         
 #define NEOPIXEL_PIN    5         

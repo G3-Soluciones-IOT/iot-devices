@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+elf = "../../firmware/smart-scale/.pio/build/esp32dev/firmware.elf"
+firmware = "../../firmware/smart-scale/.pio/build/esp32dev/firmware.bin"
